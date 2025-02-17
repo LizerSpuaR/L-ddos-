@@ -1,0 +1,17 @@
+certifi==2025.1.31
+chardet==5.2.0
+charset-normalizer==2.0.12
+colorama==0.3.9
+idna==3.10
+php==1.2.1
+psutil==6.1.1
+pyfiglet==1.0.2
+pyTelegramBotAPI==4.26.0
+requests==2.26.0
+scapy==2.6.1
+six==1.17.0
+telebot==0.0.5
+urllib3==1.26.20
+user_agent==0.1.10
+white==0.1.2
+wordlist==1.0.1
