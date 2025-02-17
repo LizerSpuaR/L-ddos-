@@ -1,8 +1,21 @@
-Bu arac basit temeli biri DDoS aracı dır 
-kurmak için ise şunları yapın
+# L-ddos-
+<h3>İndirme</h3>
 
-apt update && apt upgrade -y
-pkg install python
 
-#eğerki zaten kursuysanız Python kütüphaneleri gerekmez
+git clone https://github.com/LizerSpuaR/L-ddos-
 
+
+L-ddos-
+
+    
+ls
+
+    
+cd L-ddos-
+
+    
+pip install -r pip requirements.txt
+   
+   
+python L-ddos.py
+     
