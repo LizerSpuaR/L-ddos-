@@ -2,6 +2,7 @@ import os
 import socket
 import random
 import time
+from colorama import Fore
 from datetime import datetime
 
 now = datetime.now()
