@@ -1,9 +1,7 @@
 import os
 import socket
 import random
-import requests
 import time
-from colorama import Fore, Style
 from datetime import datetime
 
 now = datetime.now()
